@@ -10,7 +10,7 @@
 
 name: NanoPi-R1s H5 OpenWrt Lean Build
 
-on: [push]
+on:
   push:
     branches: 
       - master
